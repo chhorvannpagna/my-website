@@ -570,7 +570,7 @@ function showBookingConfirmation(booking) {
             </div>
             
             <h3 style="color: #1f2937; margin-bottom: 0.5rem;">Booking Successful!</h3>
-            <p style="color: #6b7280; margin-bottom: 2rem;">Thank you for choosing Luxury Hotel. Your booking has been confirmed.</p>
+            <p style="color: #6b7280; margin-bottom: 2rem;">Thank you for choosing Rosé Crystal Hotel. Your booking has been confirmed.</p>
             
             <div class="booking-summary">
                 <div class="summary-row">
